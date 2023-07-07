@@ -1,0 +1,49 @@
+h1{
+    margin-left: 430px;
+    color: black;
+    display: inline;
+    font-size: 50px;
+}
+
+.contactspread {
+    margin-left: 430px;
+    display: flex;
+    flex-direction: row;
+}
+
+iframe{
+    width: 800px;
+    height: 500px;
+    border: 0;
+}
+
+.info {
+    padding-left: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+
+.aboutrow {
+    display: flex;
+    padding-left: 430px;
+    padding-top: 40px;
+}
+  
+.aboutcolumn {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.paragabout p {
+    padding-left: 440px;
+    padding-right: 150px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+
+.privcontext {
+    margin-left: 430px;
+    margin-right: 150px;
+}
