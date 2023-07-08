@@ -10,7 +10,7 @@ export default function navbar(){
             <li>
                 <a href="/contact">Contact us</a>
             </li>
-            <li>
+            <li> 
                 <a href="/privacy">Privacy</a>
             </li>
         </ul>
